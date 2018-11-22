@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_text" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="361dp"
+        android:layout_height="78dp"
+        android:gravity="top"
+        android:hint="@string/hint" />
+
+    <LinearLayout
+        android:layout_width="352dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:text="@string/encrypt_button" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="355dp"
+        android:layout_height="53dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/launchActivity"
+            android:layout_width="298dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/send_to_activity" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="135dp"
+        android:layout_height="68dp"
+        app:srcCompat="?attr/actionBarDivider" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/click_for_image" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_image" />
+
+    <TextView
+        android:id="@+id/launchNotifcationText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_notification" />
+
+    <Button
+        android:id="@+id/launchNotification"
+        android:layout_width="354dp"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_notification" />
+
+    <Button
+        android:id="@+id/pickSong"
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_song_picker" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/close_app" />
+
+    <Button
+        android:id="@+id/launchAlert"
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:text="@string/exit" />
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="hint">Beginne zu tippen...</string>
+    <string name="welcome_text">Geben Sie den Text unten ein</string>
+    <string name="encrypt_button">Verschlüsseln</string>
+    <string name="pick">Wählen Sie ein Tier aus und drücken Sie auf Los &amp;</string>
+    <string name="go_back">Rückkehr zur Haupttätigkeit!</string>
+    <string name="no_selection">Keine Auswahl &#128532;</string>
+    <string name="chicken">Hänchen</string>
+    <string name="pick_dog">Du hast Hund ausgesucht!</string>
+    <string name="pick_cat">Du hast Katze ausgesucht!</string>
+    <string name="sent_to_main">Bild an Haupttätigkeit senden!</string>
+    <string name="click_for_image">Klicken Sie auf die Schaltfläche, um ein Bild zu erhalten</string>
+    <string name="go">Gehen</string>
+    <string name="pick_chicken">Du hast Hänchen ausgesucht!</string>
+    <string name="dog">Hund</string>
+    <string name="cat">Katze</string>
+    <string name="encryption_result">Ihr verschüsselter Text sieht folgendermaßen aus:</string>
+    <string name="launch_alert">Warnung starten</string>
+    <string name="exit">App schließen</string>
+    <string name="close_app">"Klicken Sie auf die Schaltfläche, um die App zu schließen "</string>
+    <string name="confirm_exit">Sie sind sicher, dass Sie beenden wollen?</string>
+    <string name="get_image">Bild bekommen</string>
+    <string name="confirm_exit_title">Beende Quittieren</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="cancel">"Abbrechen "</string>
+    <string name="cancel_clicked">Sie haben Abbrechen geklickt</string>
+    <string name="no_clicked">Sie haben Nein geklickt</string>
+    <string name="content_title">Anrufbenachrichtigung</string>
+    <string name="content_text">Tippen Sie auf, um die Nummer 021-0000001 anzurufen</string>
+    <string name="launch_notification">Benachrichtigung starten</string>
+    <string name="launch_song_picker">Wählen einen Song aus</string>
+    <string name="decrypt">Entschlüsseln</string>
+    <string name="copy">In die Zwischenablage kopieren</string>
+    <string name="decrypted_text">Ihr entschlüsselter Text sieht so aus</string>
+    <string name="send_to_activity">Senden Sie diesen Text an eine andere Aktivität</string>
+    <string name="your_text">Hier ist dein Text</string>
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="welcome_text">Enter Text Below</string>
+    <string name="hint">Start Typing...</string>
+    <string name="encrypt_button">Encrypt</string>
+    <string name="launch_alert">Launch Alert</string>
+    <string name="exit">Exit App</string>
+
+
+    <string name="encryption_result">Your encrypted text looks like this:</string>
+    <string name="click_for_image">Click the button to get an image</string>
+
+
+    <string name="pick">Pick an Animal, Press Go &amp;</string>
+    <string name="go_back">Return to the Main Activity!</string>
+    <string name="chicken">Chicken</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="no_selection">No Selection &#128532;</string>
+    <string name="pick_chicken">You\'ve picked chicken!</string>
+    <string name="pick_dog">You\'ve picked dog!</string>
+    <string name="pick_cat">You\'ve picked cat!</string>
+    <string name="sent_to_main">Image sent to main activity!</string>
+    <string name="go">Go</string>
+    <string name="close_app">Click the button to close the app</string>
+    <string name="confirm_exit">Are you sure you want to exit?</string>
+    <string name="get_image">Get Image</string>
+    <string name="confirm_exit_title">Confirm Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_clicked">You clicked Cancel</string>
+    <string name="no_clicked">You clicked No</string>
+
+    <string name="content_title">Phone Call Notification</string>
+    <string name="content_text">Tap To Call 021-0000001</string>
+    <string name="launch_notification">Launch Notification</string>
+
+    <string name="launch_song_picker">Pick a Song</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="copy">Copy to Clipboard</string>
+    <string name="decrypted_text">Your decrypted text looks like this:</string>
+    <string name="send_to_activity">Send this text to another Activity</string>
+    <string name="your_text">Here is your text:</string>
+
+</resources>
