@@ -18,6 +18,7 @@ import java.nio.charset.StandardCharsets;
 public class SecondActivity extends AppCompatActivity {
 
     byte[] decryptedCipherText;
+    String thing = "thing";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

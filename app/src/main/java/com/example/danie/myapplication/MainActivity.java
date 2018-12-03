@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     //ID code
     static final int CODE = 1;
 
+    EditText et;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+    }
 
     private void startEncryptActivity(Editable e){
         //Create an intent to the second activity
